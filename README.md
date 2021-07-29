@@ -21,9 +21,9 @@
   ##
 <div>
   
-  <a href="https://www.instagram.com/marcus_naufel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/marcus_naufel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/marcus-naufel-617207199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://twitter.com/mvnaufel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/mvnaufel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="blank"></a>
   
  ![Snake animation](https://github.com/MarcusNaufel/MarcusNaufel/blob/output/github-contribution-grid-snake.svg)
   
