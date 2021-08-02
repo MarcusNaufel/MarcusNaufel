@@ -1,6 +1,6 @@
 ### Olá e bem vindo!
 
-- 🔭 I’m currently looking for a job!
+- 🔭 I’m currently studying a lot!
 - 🌱 I’m currently learning JavaScript & FrontEnd
 - 😄 Pronouns: ... Ele/dele
  <div>
